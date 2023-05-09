@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 
+- 🔭 Currently I am working in Data Science
 - 🌍 I'm based in Delhi, India.
 - 😄 Pronouns: he/him.
 
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-porwal&theme=dark" alt="dhruv-porwal" />
 </div>
-<p align="center"><a href="http://www.github.com/dhruv-porwal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dhruv-porwal&bg_color=181824&color=14b8a6&line=a855f7&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
+<p align="center"><a href="http://www.github.com/dhruv-porwal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=armaanbadhan&bg_color=181824&color=14b8a6&line=a855f7&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
